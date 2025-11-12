@@ -164,7 +164,7 @@ Production-ready restaurant site with dark mode, interactive menu, booking syste
 </p>
 
 <h3 align="center">
-  <i>"I don't have 10 years in cloud. I have 9 years of making businesses work—and I'm bringing that fire to infrastructure."</i>
+  <i>"Strategy meets infrastructure."</i>
 </h3>
 
 ---
