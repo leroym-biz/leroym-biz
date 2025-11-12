@@ -1,131 +1,94 @@
-<!-- ========================= BADGES - Instant Credibility ========================= -->
+<!-- ========================= BADGES ========================= -->
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-In%20Progress-blue?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner In Progress" />
-  <img src="https://img.shields.io/badge/Azure%20Fundamentals-Next%20Target-blue?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals Next Target" />
-  <img src="https://img.shields.io/badge/Python-Automation%20%26%20Scripting-green?style=flat-square&logo=python&logoColor=white" alt="Python Automation & Scripting" />
-  <img src="https://img.shields.io/badge/IaC-CloudFormation%20%7C%20Terraform-yellow?style=flat-square&logo=terraform&logoColor=white" alt="IaC CloudFormation | Terraform" />
-  <img src="https://img.shields.io/badge/Power%20BI-Data%20Storytelling-red?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI Data Storytelling" />
-  <img src="https://img.shields.io/badge/SQL-Advanced%20Analytics-orange?style=flat-square&logo=mysql&logoColor=white" alt="SQL Advanced Analytics" />
-  <img src="https://img.shields.io/badge/HTML%2FCSS%2FJS-Building%20Interfaces-blueviolet?style=flat-square&logo=javascript&logoColor=white" alt="HTML/CSS/JS Building Interfaces" />
-  <img src="https://img.shields.io/badge/Focus-Automation%20%7C%20Security%20%7C%20Cost%20Optimization-lightgrey?style=flat-square" alt="Focus Automation | Security | Cost Optimization" />
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-In%20Progress-blue?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner" />
+  <img src="https://img.shields.io/badge/Azure%20Fundamentals-Next%20Target-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals" />
+  <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/IaC-CloudFormation%20%7C%20Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" alt="IaC" />
+  <img src="https://img.shields.io/badge/Power%20BI-Data%20Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/SQL-Advanced-00758F?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
-<h1 align="center">🔥 Crafted with Fire. Coded with Soul. ☁️</h1>
+<h1 align="center">Hi 👋, I'm Leroy</h1>
+
+<h3 align="center">Professional Cloud Infrastructure Engineer | Business Strategist Turned Builder</h3>
 
 <p align="center">
-  <i>9 years turning business chaos into growth → Now architecting cloud solutions that scale</i>
-</p>
-
----
-
-## ⭐ Who I Am: The Strategy Guy Who Speaks Cloud
-
-Hey, I'm Leroy. For nearly a decade, I've been the person executives call when they need to **turn data into decisions, complexity into clarity, and strategy into revenue**.
-
-But here's the truth: I got tired of *recommending* solutions. I wanted to **build them**.
-
-So I'm rebuilding myself from Strategy & Insights → Cloud Infrastructure. I'm not here to fake 10 years of AWS experience. I'm here to show you what **cross-functional excellence** looks like when a seasoned strategist learns to architect.
-
-**What I bring that pure engineers don't**: I don't just build systems. I build systems that **drive business outcomes** because I've spent 9 years living in the boardroom's headspace.
-
----
-
-## 💡 What I'm Building Right Now
-
-| **Project** | **Stack** | **Why It Matters** | **Status** |
-|-------------|-----------|-------------------|------------|
-| **AWS Portfolio: 3-Month Cloud Sprint** | AWS CCP, Python, Linux, CloudFormation | [Live Repo](https://github.com/leroym-biz/AWS-Restart-Journey) - Documenting every mistake and breakthrough. Real-world projects, not tutorials. | 🔴 In Progress |
-| **ember-co** | HTML5, CSS3, Vanilla JS, jQuery | Production-ready restaurant site with dark mode, interactive menu, booking system. Proving I can ship. | 🟡 Live Demo Coming |
-
----
-
-## 🎯 The Cross-Functional Weapon: Why I'm Your Asset
-
-| **Domain** | **9 Years Strategy** | **+ Cloud/Tech Skills** | **= Your Competitive Advantage** |
-|------------|---------------------|------------------------|----------------------------------|
-| **Automation** | Automated reporting pipelines in Power BI saving 20+ hrs/week | Python scripting, Lambda functions, CloudFormation IaC | **Self-healing, cost-aware architectures** |
-| **Security** | Led business continuity & crisis management | IAM least-privilege, KMS encryption, VPC isolation | **Security that understands compliance & risk** |
-| **Scalability** | Scaled marketing ops 10% YoY with data-driven strategies | Auto Scaling groups, S3/CDN, Well-Architected Framework | **Systems that grow with business logic baked in** |
-| **Cost Optimization** | Cut marketing waste 20%, improved ROI 25% | Spot instances, Savings Plans, S3 Lifecycle policies | **Cloud spend that maps to P&L, not just tech specs** |
-
----
-
-## 🛠️ The Tech Stack I'm Forging
-
-### **Cloud & Infrastructure**
-- **AWS**: EC2, S3, CloudFront, Lambda, VPC, IAM, CloudFormation (CCP in progress)
-- **Azure**: Fundamentals next (multi-cloud strategy from day one)
-
-### **Data & Analytics** (My Superpower)
-- Advanced Power BI (DAX, M), SQL (window functions, CTEs), Advanced Excel
-- Predictive analytics, CRM integration (HubSpot, Salesforce)
-
-### **Development & Automation**
-- **Languages**: Python (automation & scripting), JavaScript, HTML/CSS (building interfaces)
-- **IaC**: CloudFormation (YAML/JSON), learning Terraform
-- **Version Control**: Git & GitHub (branching, PRs, Gitflow)
-
-### **Strategy & Leadership** (The Differentiator)
-- **Growth Strategy**: Revenue Operations (RevOps), Market Expansion, Monetization
-- **Process**: Lean Six Sigma (Yellow Belt), Scrum Master Certified
-- **Business**: Stakeholder engagement, Business Continuity Management, Crisis Leadership
-
----
-
-## 📊 The Impact: By The Numbers
-
-- **35%** increase in high-value partnerships (Strategy)
-- **20%** reduction in marketing waste (Cost Optimization)
-- **25%** improvement in market positioning via predictive analytics (Data)
-- **15%** boost in lead-to-sales conversion (Execution)
-- **∞%** growth in cloud skills (Current obsession)
-
----
-
-## 🎯 Certifications & Credentials
-
-| **Category** | **Certification** | **Issuer** | **Year** |
-|--------------|-------------------|------------|----------|
-| **Cloud** | AWS Cloud Practitioner | Amazon | 2024 (In Progress) |
-| **Project Mgmt** | Scrum Master Professional | ITronix Solutions | 2023 |
-| **Process** | Lean Six Sigma Yellow Belt | MF Treinamentos | 2025 |
-| **Data** | Power BI Intermediate | DataCamp | 2023 |
-| **AI** | AI Prompting Essentials | MSI | 2024 |
-| **Leadership** | Business Mgmt Essentials | MSI | 2023 |
-
----
-
-## 📬 Let's Build Something
-
-I'm actively seeking:
-- **Cloud/DevOps roles** that value business acumen
-- **Collaborators** on open-source infrastructure projects
-- **Mentors** who've bridged business → tech
-
-<p align="center">
-  <a href="mailto:leroym.biz@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Email-leroym.biz@gmail.com-blue?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://api.whatsapp.com/send/?phone=27605665116&text=Hi%20Leroy,%20saw%20your%20GitHub!" target="_blank">
-    <img src="https://img.shields.io/badge/📱%20WhatsApp-%2B27%2060%20566%205116-green?style=for-the-badge&logo=whatsapp" />
-  </a>
+  <em>9 years turning strategy into revenue → Now architecting cloud solutions that scale</em>
 </p>
 
 ---
 
-<!-- ========================= FOOTER - The Soul Statement ========================= -->
+### 🚀 About Me
+
+I'm rebuilding myself from Strategy & Insights → Cloud Infrastructure. I don't just build systems—I build systems that **drive business outcomes** because I've spent 9 years living in the boardroom's headspace.
+
+**Currently**: Documenting my AWS journey in real-time. Real projects, not tutorials.
+
+---
+
+### 💻 What I'm Building
+
+| **Project** | **Stack** | **Status** |
+|-------------|-----------|------------|
+| **[AWS Portfolio: 3-Month Cloud Sprint](https://github.com/leroym-biz/AWS-Restart-Journey)** | AWS, Python, Linux, CloudFormation | 🔴 In Progress |
+| **ember-co** | HTML5, CSS3, Vanilla JS, jQuery | 🟡 Live Demo Coming |
+
+---
+
+### 🛠️ Tech Stack
+
+**Cloud & Infrastructure**
+- AWS (EC2, S3, CloudFront, Lambda, VPC, IAM, CloudFormation)
+- Azure (Fundamentals - Next target)
+
+**Development**
+- Python (automation & scripting)
+- JavaScript, HTML/CSS
+- CloudFormation, Terraform
+- Git & GitHub
+
+**Data & Analytics**
+- Power BI (DAX, M)
+- SQL (window functions, CTEs)
+- Predictive analytics
+- CRM integration (HubSpot, Salesforce)
+
+**Business & Strategy**
+- Revenue Operations (RevOps)
+- Lean Six Sigma (Yellow Belt)
+- Scrum Master Certified
+- Business Continuity Management
+
+---
+
+### 🎯 Certifications
+
+| Certification | Issuer | Year |
+|--------------|--------|------|
+| AWS Cloud Practitioner | Amazon | 2024 (In Progress) |
+| Scrum Master Professional | ITronix Solutions | 2023 |
+| Lean Six Sigma Yellow Belt | MF Treinamentos | 2025 |
+| Power BI Intermediate | DataCamp | 2023 |
+| AI Prompting Essentials | MSI | 2024 |
+
+---
+
+### 📫 Connect With Me
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=leroym-biz&color=red" alt="Profile views" />
-</p>
-
-<h3 align="center">
-  <i>"I don't have 10 years in cloud. I have 9 years of making businesses work—and I'm bringing that fire to infrastructure."</i>
-</h3>
-
-<h4 align="center">🔥💻☁️</h4>
-
-<p align="center">
-  <em>Currently documenting my journey weekly. Watch me build in real-time.</em>
+  <a href="mailto:leroym.biz@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://api.whatsapp.com/send/?phone=27605665116&text=Hi%20Leroy,%20saw%20your%20GitHub!"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/leroym"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=leroym-biz&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>
+
+<p align="center">
+  <em>🔥 Crafted with Fire. Coded with Soul. ☁️</em>
+</p>
+
+<p align="center">Watch me build in real-time.</p>
