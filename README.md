@@ -1,24 +1,24 @@
-&lt;!-- ========================= BADGES - Instant Credibility ========================= --&gt;
-&lt;p align="center"&gt;
-  &lt;img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-In%20Progress-blue?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner In Progress" /&gt;
-  &lt;img src="https://img.shields.io/badge/Azure%20Fundamentals-Next%20Target-blue?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals Next Target" /&gt;
-  &lt;img src="https://img.shields.io/badge/Python-Automation%20%26%20Scripting-green?style=flat-square&logo=python&logoColor=white" alt="Python Automation & Scripting" /&gt;
-  &lt;img src="https://img.shields.io/badge/IaC-CloudFormation%20%7C%20Terraform-yellow?style=flat-square&logo=terraform&logoColor=white" alt="IaC CloudFormation | Terraform" /&gt;
-  &lt;img src="https://img.shields.io/badge/Power%20BI-Data%20Storytelling-red?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI Data Storytelling" /&gt;
-  &lt;img src="https://img.shields.io/badge/SQL-Advanced%20Analytics-orange?style=flat-square&logo=mysql&logoColor=white" alt="SQL Advanced Analytics" /&gt;
-  &lt;img src="https://img.shields.io/badge/HTML%2FCSS%2FJS-Building%20Interfaces-blueviolet?style=flat-square&logo=javascript&logoColor=white" alt="HTML/CSS/JS Building Interfaces" /&gt;
-  &lt;img src="https://img.shields.io/badge/Focus-Automation%20%7C%20Security%20%7C%20Cost%20Optimization-lightgrey?style=flat-square" alt="Focus Automation | Security | Cost Optimization" /&gt;
-&lt;/p&gt;
+<!-- ========================= BADGES - Instant Credibility ========================= -->
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-In%20Progress-blue?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner In Progress" />
+  <img src="https://img.shields.io/badge/Azure%20Fundamentals-Next%20Target-blue?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals Next Target" />
+  <img src="https://img.shields.io/badge/Python-Automation%20%26%20Scripting-green?style=flat-square&logo=python&logoColor=white" alt="Python Automation & Scripting" />
+  <img src="https://img.shields.io/badge/IaC-CloudFormation%20%7C%20Terraform-yellow?style=flat-square&logo=terraform&logoColor=white" alt="IaC CloudFormation | Terraform" />
+  <img src="https://img.shields.io/badge/Power%20BI-Data%20Storytelling-red?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI Data Storytelling" />
+  <img src="https://img.shields.io/badge/SQL-Advanced%20Analytics-orange?style=flat-square&logo=mysql&logoColor=white" alt="SQL Advanced Analytics" />
+  <img src="https://img.shields.io/badge/HTML%2FCSS%2FJS-Building%20Interfaces-blueviolet?style=flat-square&logo=javascript&logoColor=white" alt="HTML/CSS/JS Building Interfaces" />
+  <img src="https://img.shields.io/badge/Focus-Automation%20%7C%20Security%20%7C%20Cost%20Optimization-lightgrey?style=flat-square" alt="Focus Automation | Security | Cost Optimization" />
+</p>
 
-&lt;h1 align="center"&gt;🔥 Crafted with Fire. Coded with Soul. ☁️&lt;/h1&gt;
+<h1 align="center">🔥 Crafted with Fire. Coded with Soul. ☁️</h1>
 
-&lt;p align="center"&gt;
-  &lt;i&gt;9 years turning business chaos into growth → Now architecting cloud solutions that scale&lt;/i&gt;
-&lt;/p&gt;
+<p align="center">
+  <i>9 years turning business chaos into growth → Now architecting cloud solutions that scale</i>
+</p>
 
 ---
 
-### ⭐ Who I Am: The Strategy Guy Who Speaks Cloud
+## ⭐ Who I Am: The Strategy Guy Who Speaks Cloud
 
 Hey, I'm Leroy. For nearly a decade, I've been the person executives call when they need to **turn data into decisions, complexity into clarity, and strategy into revenue**.
 
@@ -46,7 +46,7 @@ So I'm rebuilding myself from Strategy & Insights → Cloud Infrastructure. I'm 
 | **Automation** | Automated reporting pipelines in Power BI saving 20+ hrs/week | Python scripting, Lambda functions, CloudFormation IaC | **Self-healing, cost-aware architectures** |
 | **Security** | Led business continuity & crisis management | IAM least-privilege, KMS encryption, VPC isolation | **Security that understands compliance & risk** |
 | **Scalability** | Scaled marketing ops 10% YoY with data-driven strategies | Auto Scaling groups, S3/CDN, Well-Architected Framework | **Systems that grow with business logic baked in** |
-| **Cost Optimization** | Cut marketing waste 20%, improved ROI 25% | Spot instances, Savings Plans, S3 Lifecycle policies | **Cloud spend that maps to PBL, not just tech specs** |
+| **Cost Optimization** | Cut marketing waste 20%, improved ROI 25% | Spot instances, Savings Plans, S3 Lifecycle policies | **Cloud spend that maps to P&L, not just tech specs** |
 
 ---
 
@@ -58,12 +58,12 @@ So I'm rebuilding myself from Strategy & Insights → Cloud Infrastructure. I'm 
 
 ### **Data & Analytics** (My Superpower)
 - Advanced Power BI (DAX, M), SQL (window functions, CTEs), Advanced Excel
-- Tools Predictive analytics, CRM integration (HubSpot, Salesforce)
+- Predictive analytics, CRM integration (HubSpot, Salesforce)
 
 ### **Development & Automation**
 - **Languages**: Python (automation & scripting), JavaScript, HTML/CSS (building interfaces)
 - **IaC**: CloudFormation (YAML/JSON), learning Terraform
-- **Version Control**: Git & Github (branching, PRs, Gitflow)
+- **Version Control**: Git & GitHub (branching, PRs, Gitflow)
 
 ### **Strategy & Leadership** (The Differentiator)
 - **Growth Strategy**: Revenue Operations (RevOps), Market Expansion, Monetization
@@ -72,17 +72,17 @@ So I'm rebuilding myself from Strategy & Insights → Cloud Infrastructure. I'm 
 
 ---
 
-### 📊 The Impact: By The Numbers
+## 📊 The Impact: By The Numbers
 
 - **35%** increase in high-value partnerships (Strategy)
 - **20%** reduction in marketing waste (Cost Optimization)
 - **25%** improvement in market positioning via predictive analytics (Data)
 - **15%** boost in lead-to-sales conversion (Execution)
-- **0%** growth in cloud skills (Current obsession)
+- **∞%** growth in cloud skills (Current obsession)
 
 ---
 
-### 🎯 Certifications & Credentials
+## 🎯 Certifications & Credentials
 
 | **Category** | **Certification** | **Issuer** | **Year** |
 |--------------|-------------------|------------|----------|
@@ -95,37 +95,37 @@ So I'm rebuilding myself from Strategy & Insights → Cloud Infrastructure. I'm 
 
 ---
 
-### 📬 Let's Build Something
+## 📬 Let's Build Something
 
 I'm actively seeking:
 - **Cloud/DevOps roles** that value business acumen
 - **Collaborators** on open-source infrastructure projects
 - **Mentors** who've bridged business → tech
 
-&lt;p align="center"&gt;
-  &lt;a href="mailto:leroym.biz@gmail.com"&gt;
-    &lt;img src="https://img.shields.io/badge/📧%20Email-leroym.biz@gmail.com-blue?style=for-the-badge&logo=gmail" /&gt;
-  &lt;/a&gt;
-  &lt;a href="https://api.whatsapp.com/send/?phone=27605665116&text=Hi%20Leroy,%20saw%20your%20GitHub!" target="_blank"&gt;
-    &lt;img src="https://img.shields.io/badge/📱%20WhatsApp-%2B27%2060%20566%205116-green?style=for-the-badge&logo=whatsapp" /&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+<p align="center">
+  <a href="mailto:leroym.biz@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email-leroym.biz@gmail.com-blue?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://api.whatsapp.com/send/?phone=27605665116&text=Hi%20Leroy,%20saw%20your%20GitHub!" target="_blank">
+    <img src="https://img.shields.io/badge/📱%20WhatsApp-%2B27%2060%20566%205116-green?style=for-the-badge&logo=whatsapp" />
+  </a>
+</p>
 
 ---
 
-&lt;!-- ========================= FOOTER - The Soul Statement ========================= --&gt;
-&lt;p align="center"&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=leroym-biz&color=red" alt="Profile views" /&gt;
-&lt;/p&gt;
+<!-- ========================= FOOTER - The Soul Statement ========================= -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=leroym-biz&color=red" alt="Profile views" />
+</p>
 
-&lt;h3 align="center"&gt;
-  &lt;i&gt;"I don't have 10 years in cloud. I have 9 years of making businesses work—and I'm bringing that fire to infrastructure."&lt;/i&gt;
-&lt;/h3&gt;
+<h3 align="center">
+  <i>"I don't have 10 years in cloud. I have 9 years of making businesses work—and I'm bringing that fire to infrastructure."</i>
+</h3>
 
-&lt;h4 align="center"&gt;🔥💻☁️&lt;/h4&gt;
+<h4 align="center">🔥💻☁️</h4>
 
-&lt;p align="center"&gt;
-  &lt;em&gt;Currently documenting my journey weekly. Watch me build in real-time.&lt;/em&gt;
-&lt;/p&gt;
+<p align="center">
+  <em>Currently documenting my journey weekly. Watch me build in real-time.</em>
+</p>
 
 ---
