@@ -1,17 +1,12 @@
 &lt;!-- ========================= BADGES - Instant Credibility ========================= --&gt;
 &lt;p align="center"&gt;
-  &lt;!-- Cloud Journey --&gt;
   &lt;img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-In%20Progress-blue?style=flat-square&logo=amazonaws&logoColor=white" /&gt;
   &lt;img src="https://img.shields.io/badge/Azure%20Fundamentals-Next%20Target-blue?style=flat-square&logo=microsoftazure&logoColor=white" /&gt;
-  &lt;!-- Core Tech --&gt;
   &lt;img src="https://img.shields.io/badge/Python-Automation%20%26%20Scripting-green?style=flat-square&logo=python&logoColor=white" /&gt;
   &lt;img src="https://img.shields.io/badge/IaC-CloudFormation%20%7C%20Terraform-yellow?style=flat-square&logo=terraform&logoColor=white" /&gt;
-  &lt;!-- Strategic Bridge --&gt;
   &lt;img src="https://img.shields.io/badge/Power%20BI-Data%20Storytelling-red?style=flat-square&logo=powerbi&logoColor=white" /&gt;
   &lt;img src="https://img.shields.io/badge/SQL-Advanced%20Analytics-orange?style=flat-square&logo=mysql&logoColor=white" /&gt;
-  &lt;!-- Web Skills --&gt;
   &lt;img src="https://img.shields.io/badge/HTML%2FCSS%2FJS-Building%20Interfaces-blueviolet?style=flat-square&logo=javascript&logoColor=white" /&gt;
-  &lt;!-- Values --&gt;
   &lt;img src="https://img.shields.io/badge/Focus-Automation%20%7C%20Security%20%7C%20Cost%20Optimization-lightgrey?style=flat-square" /&gt;
 &lt;/p&gt;
 
