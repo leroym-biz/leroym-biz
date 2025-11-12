@@ -1,13 +1,13 @@
 &lt;!-- ========================= BADGES - Instant Credibility ========================= --&gt;
 &lt;p align="center"&gt;
-  &lt;img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-In%20Progress-blue?style=flat-square&logo=amazonaws&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/Azure%20Fundamentals-Next%20Target-blue?style=flat-square&logo=microsoftazure&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/Python-Automation%20%26%20Scripting-green?style=flat-square&logo=python&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/IaC-CloudFormation%20%7C%20Terraform-yellow?style=flat-square&logo=terraform&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/Power%20BI-Data%20Storytelling-red?style=flat-square&logo=powerbi&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/SQL-Advanced%20Analytics-orange?style=flat-square&logo=mysql&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/HTML%2FCSS%2FJS-Building%20Interfaces-blueviolet?style=flat-square&logo=javascript&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/Focus-Automation%20%7C%20Security%20%7C%20Cost%20Optimization-lightgrey?style=flat-square" /&gt;
+  &lt;img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-In%20Progress-blue?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner In Progress" /&gt;
+  &lt;img src="https://img.shields.io/badge/Azure%20Fundamentals-Next%20Target-blue?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals Next Target" /&gt;
+  &lt;img src="https://img.shields.io/badge/Python-Automation%20%26%20Scripting-green?style=flat-square&logo=python&logoColor=white" alt="Python Automation & Scripting" /&gt;
+  &lt;img src="https://img.shields.io/badge/IaC-CloudFormation%20%7C%20Terraform-yellow?style=flat-square&logo=terraform&logoColor=white" alt="IaC CloudFormation | Terraform" /&gt;
+  &lt;img src="https://img.shields.io/badge/Power%20BI-Data%20Storytelling-red?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI Data Storytelling" /&gt;
+  &lt;img src="https://img.shields.io/badge/SQL-Advanced%20Analytics-orange?style=flat-square&logo=mysql&logoColor=white" alt="SQL Advanced Analytics" /&gt;
+  &lt;img src="https://img.shields.io/badge/HTML%2FCSS%2FJS-Building%20Interfaces-blueviolet?style=flat-square&logo=javascript&logoColor=white" alt="HTML/CSS/JS Building Interfaces" /&gt;
+  &lt;img src="https://img.shields.io/badge/Focus-Automation%20%7C%20Security%20%7C%20Cost%20Optimization-lightgrey?style=flat-square" alt="Focus Automation | Security | Cost Optimization" /&gt;
 &lt;/p&gt;
 
 &lt;h1 align="center"&gt;🔥 Crafted with Fire. Coded with Soul. ☁️&lt;/h1&gt;
@@ -18,7 +18,7 @@
 
 ---
 
-## ⭐ Who I Am: The Strategy Guy Who Speaks Cloud
+### ⭐ Who I Am: The Strategy Guy Who Speaks Cloud
 
 Hey, I'm Leroy. For nearly a decade, I've been the person executives call when they need to **turn data into decisions, complexity into clarity, and strategy into revenue**.
 
@@ -46,7 +46,7 @@ So I'm rebuilding myself from Strategy & Insights → Cloud Infrastructure. I'm 
 | **Automation** | Automated reporting pipelines in Power BI saving 20+ hrs/week | Python scripting, Lambda functions, CloudFormation IaC | **Self-healing, cost-aware architectures** |
 | **Security** | Led business continuity & crisis management | IAM least-privilege, KMS encryption, VPC isolation | **Security that understands compliance & risk** |
 | **Scalability** | Scaled marketing ops 10% YoY with data-driven strategies | Auto Scaling groups, S3/CDN, Well-Architected Framework | **Systems that grow with business logic baked in** |
-| **Cost Optimization** | Cut marketing waste 20%, improved ROI 25% | Spot instances, Savings Plans, S3 Lifecycle policies | **Cloud spend that maps to P&L, not just tech specs** |
+| **Cost Optimization** | Cut marketing waste 20%, improved ROI 25% | Spot instances, Savings Plans, S3 Lifecycle policies | **Cloud spend that maps to PBL, not just tech specs** |
 
 ---
 
@@ -57,13 +57,13 @@ So I'm rebuilding myself from Strategy & Insights → Cloud Infrastructure. I'm 
 - **Azure**: Fundamentals next (multi-cloud strategy from day one)
 
 ### **Data & Analytics** (My Superpower)
-- **Advanced**: Power BI (DAX, M), SQL (window functions, CTEs), Advanced Excel
-- **Tools**: Predictive analytics, CRM integration (HubSpot, Salesforce)
+- Advanced Power BI (DAX, M), SQL (window functions, CTEs), Advanced Excel
+- Tools Predictive analytics, CRM integration (HubSpot, Salesforce)
 
 ### **Development & Automation**
 - **Languages**: Python (automation & scripting), JavaScript, HTML/CSS (building interfaces)
 - **IaC**: CloudFormation (YAML/JSON), learning Terraform
-- **Version Control**: Git & GitHub (branching, PRs, GitFlow)
+- **Version Control**: Git & Github (branching, PRs, Gitflow)
 
 ### **Strategy & Leadership** (The Differentiator)
 - **Growth Strategy**: Revenue Operations (RevOps), Market Expansion, Monetization
@@ -72,17 +72,17 @@ So I'm rebuilding myself from Strategy & Insights → Cloud Infrastructure. I'm 
 
 ---
 
-## 📊 The Impact: By The Numbers
+### 📊 The Impact: By The Numbers
 
 - **35%** increase in high-value partnerships (Strategy)
 - **20%** reduction in marketing waste (Cost Optimization)
 - **25%** improvement in market positioning via predictive analytics (Data)
 - **15%** boost in lead-to-sales conversion (Execution)
-- **∞%** growth in cloud skills (Current obsession)
+- **0%** growth in cloud skills (Current obsession)
 
 ---
 
-## 🎯 Certifications & Credentials
+### 🎯 Certifications & Credentials
 
 | **Category** | **Certification** | **Issuer** | **Year** |
 |--------------|-------------------|------------|----------|
@@ -95,7 +95,7 @@ So I'm rebuilding myself from Strategy & Insights → Cloud Infrastructure. I'm 
 
 ---
 
-## 📬 Let's Build Something
+### 📬 Let's Build Something
 
 I'm actively seeking:
 - **Cloud/DevOps roles** that value business acumen
