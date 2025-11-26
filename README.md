@@ -118,17 +118,23 @@ Production-ready restaurant site with dark mode, interactive menu, booking syste
 
 ---
 
-## 🎯 **Certifications & Battle Scars**
+## 🎯 **Certifications & Recent Battle Scars**
 
 <p align="center">
 
 | 🏆 **Certification** | 🏢 **Issuer** | 📅 **Year** |
 |:---------------------|:--------------|:-----------:|
-| **AWS Cloud Practitioner** | Amazon | 🔄 2024 (In Progress) |
-| **Scrum Master Professional** | ITronix Solutions | ✅ 2023 |
+| **AWS Cloud Practitioner** | Amazon | 🔄 2025 (In Progress) |
+| **Google Cybersecurity Professional** | Google | 🔄 2025 (In Progress) |
+| **Full Stack Development** | FNB APP Academy (IT Varsity) | ✅ 2025 |
 | **Lean Six Sigma Yellow Belt** | MF Treinamentos | ✅ 2025 |
-| **Power BI Intermediate** | DataCamp | ✅ 2023 |
+| **Certificate in Crisis Management** | Udemy | ✅ 2024 |
+| **Master Course in Business Continuity Management** | Udemy | ✅ 2024 |
+| **Generative AI Overview for Project Managers** | PMI (Project Management Institute) | ✅ 2024 |
 | **AI Prompting Essentials** | MSI | ✅ 2024 |
+| **Scrum Master Professional** | ITronix Solutions | ✅ 2023 |
+| **Power BI Intermediate** | DataCamp | ✅ 2023 |
+
 
 </p>
 
