@@ -54,11 +54,12 @@ Documenting every mistake and breakthrough. Real-world projects, not tutorials.
 <td width="50%" valign="top">
 
 ### 🍽️ ember-co
+
 **Stack:** HTML5, CSS3, Vanilla JS, jQuery
 
 Production-ready restaurant site with dark mode, interactive menu, booking system. Proving I can ship.
 
-**Status:** 🟡 **Live Demo Coming**
+**Status:** 🟢 **Successfully Deployed**
 
 </td>
 </tr>
