@@ -127,12 +127,12 @@ Production-ready restaurant site with dark mode, interactive menu, booking syste
 |:---------------------|:--------------|:-----------:|
 | **AWS Cloud Practitioner** | Amazon | 🔄 2025 (In Progress) |
 | **Google Cybersecurity Professional** | Google | 🔄 2025 (In Progress) |
+| **Generative AI Mastermind** | Outskill | ✅ 2025 |
 | **Full Stack Development** | FNB APP Academy (IT Varsity) | ✅ 2025 |
 | **Lean Six Sigma Yellow Belt** | MF Treinamentos | ✅ 2025 |
 | **Certificate in Crisis Management** | Udemy | ✅ 2024 |
 | **Master Course in Business Continuity Management** | Udemy | ✅ 2024 |
 | **Generative AI Overview for Project Managers** | PMI (Project Management Institute) | ✅ 2024 |
-| **AI Prompting Essentials** | MSI | ✅ 2024 |
 | **Scrum Master Professional** | ITronix Solutions | ✅ 2023 |
 | **Power BI Intermediate** | DataCamp | ✅ 2023 |
 
